@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-某通信キャリア系サービスのフロントエンド開発してます。
-
 <!--
 **70to/70to** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
